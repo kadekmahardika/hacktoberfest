@@ -1,4 +1,4 @@
-# HACKTOBERFEST 2018 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# HACKTOBERFEST 2021 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <pre>
       {_}
       /*\       
@@ -15,7 +15,7 @@ Use this project to make your first contribution to an open source project on Gi
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
 ## What is Hacktoberfest?
-All about HACKTOBERFEST can you read in [here](https://codelatte.org/hacktoberfest-2018/) or from it's [Official Site](https://hacktoberfest.digitalocean.com/).
+All about HACKTOBERFEST can you read in [here](https://codelatte.org/hacktoberfest-2021/) or from it's [Official Site](https://hacktoberfest.digitalocean.com/).
 
 ## Add Your Name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
