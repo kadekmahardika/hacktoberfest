@@ -1,4 +1,4 @@
-#### Name: [Abay](https://github.com/abaykan/)
-- Place: Indonesia
-- Bio: Proudly Owner of [Codelatte Indonesia](https://codelatte.org/)
-- GitHub: [Abay](https://github.com/abaykan/)
+#### Name: [Kavya](https://github.com/kkavya30/)
+- Place: India
+- Bio: Artist
+- GitHub: [kkavya30](https://github.com/kkavya30abaykan/)
